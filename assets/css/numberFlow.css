@@ -39,7 +39,7 @@ body {
 .game {
     position: absolute;
     height: 360px;
-    width: 100%;
+    width: 95%;
     overflow: hidden;
 }
 .key {
@@ -52,4 +52,10 @@ body {
     width: 60px;
     height: 60px;
     border: #cbcbcb 1px solid;
+}
+
+
+button {
+    position: absolute;
+    width: 60px;
 }

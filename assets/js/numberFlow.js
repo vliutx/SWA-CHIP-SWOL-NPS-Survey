@@ -1,7 +1,6 @@
 const keys = ['1','2','3','4','5','6','7','8','9','10']
 let remaining = keys;
 
-
 // $
 function $(element) {
     if(document.querySelectorAll(element).length !== 1) {
@@ -16,8 +15,6 @@ function tnt(input) {
 
 let numberString = '*'
 $(".phone-number").innerHTML = numberString
-
-
 
 // Generate the keyboard
 
